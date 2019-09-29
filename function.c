@@ -1,6 +1,7 @@
 initialFunction()
 {
 //Sample Code for InitalFunction
+
 FeatureB()
 {
   //Sample code for Feature B	
@@ -9,6 +10,11 @@ FeatureB()
 featureA()
 {
   //Sample Code for Feature A
+}
+
+develop()
+{
+  //Sample code for develop
 }
 
 }
