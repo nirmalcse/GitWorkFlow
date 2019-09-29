@@ -17,4 +17,9 @@ develop()
   //Sample code for develop
 }
 
+Release()
+{
+  //Sample Code for Release
+}
+
 }
